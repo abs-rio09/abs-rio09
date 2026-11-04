@@ -47,6 +47,8 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Languages**
 
@@ -63,7 +65,7 @@
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,latex&perline=10" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,linux,ubuntu,latex&perline=10" alt="Tools"/>
 </p>
 
 ---
