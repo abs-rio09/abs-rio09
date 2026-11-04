@@ -59,7 +59,7 @@
 **Frameworks & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,django,android,mysql,postgres,mongodb&perline=10" alt="Frameworks and Databases"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,django,androidstudio,mysql,postgres,mongodb&perline=10" alt="Frameworks and Databases"/>
 </p>
 
 **Tools & Platforms**
